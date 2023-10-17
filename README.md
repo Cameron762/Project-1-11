@@ -9,7 +9,7 @@ Kelechi Joel, Julia Dettman, Adil Baksh, Jonathan Rascon, Cameron Carson
  
 Project description: 
  
-This project will intake data on Houston, San Antonio, Austin and Dallas in order to study the correlation between increased population and cost of living. We will then look at how these affect the crime rate in each city as well.
+The goal of this project is to gather data on the crime rate, income, cost of living via mortgage/ rent, and population density of major cities in Texas and analyze how these categories may affect each other. 
  
 Research questions to ask: 
  How has the population changed over the past 3 years?
