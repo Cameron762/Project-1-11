@@ -24,7 +24,6 @@ Research questions to ask:
  What is the average cost of living in that area?
  
 Datasets to be used:
-https://data.ntbprov.go.id/dataset/crime-data-ten-most-populous-cities-us/resource/80d51987-acc7-42aa-a51b-9a4737c09efa#{view-map:{lonField:!Longitude,latField:!Latitude}}
 
 https://data.austintexas.gov/Public-Safety/Crime-Reports-2020/r6nu-rp78
 
