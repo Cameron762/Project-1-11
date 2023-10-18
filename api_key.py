@@ -1,5 +1,5 @@
 # rapid api housing valuation
-key = "703b1f6f05mshddd7c8a3ffd662cp110feajsn35a345881053"
+key = 
 
 
 
