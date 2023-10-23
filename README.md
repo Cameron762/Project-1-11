@@ -53,5 +53,5 @@ https://www.diva-portal.org/smash/get/diva2:1564594/FULLTEXT01.pdf
 
 **DEVELOPMENT**  
 **ACKNOWLEDGEMENT**  
-**LICENSE**  
+**license**  
 
