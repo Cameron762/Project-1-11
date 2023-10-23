@@ -25,7 +25,7 @@ Tourism is a huge global industry and tends to correlate with how well countries
 - Julia Dettman Github Link:
 - Adil Baksh Github Link:
 - Jonathan Rascon Github Link:
-- Cameron Carson Github Link:
+- Cameron Carson Github Link: https://github.com/Cameron762
   
 **INSTALLATION** 
 - import pandas 
