@@ -10,7 +10,7 @@ The correlation of Tourism with the GDP and Poplation of Global Countries.
 [DOCUMENTATION](#documentation)  
 [DEVELOPMENT](#development)  
 [ACKNOWLEDGEMENT](#acknowledgement)  
-[LICENSE](license)   
+[LICENSE](#license)   
 [CONCLUSION](#conclusion)
 
 **PROJECT DESCRIPTION**  
