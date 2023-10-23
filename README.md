@@ -12,7 +12,7 @@ The correlation of Tourism with the GDP and Poplation of Global Countries.
 [ACKNOWLEDGEMENT](#acknowledgement)  
 [LICENSE](license)  
 
-**[PROJECT DESCRIPTION]**  
+**project description**  
 Tourism is a huge global industry and tends to correlate with how well countries perform economically. Explore how tourism arrivals and expenditure correlate with the GDP of a country and examine if the population of a country places any effect on these correlation.  
 *Research questions to ask:*
 1. Does the number of tourist visit affect expenditure?
