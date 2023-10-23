@@ -26,7 +26,7 @@ Tourism is a huge global industry and tends to correlate with how well countries
 - Jonathan Rascon
 - Cameron Carson
   
-**INSTALLATION**  
+installation 
 - import pandas 
 - from pathlib import Path
 - import numpy 
