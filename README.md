@@ -19,7 +19,7 @@ Tourism is a huge global industry and tends to correlate with how well countries
 2. Does tourist visit and expenditure correlate with the GDP of Global countries?
 3. Is population playing a factor in tourism?
 
-**CONTRIBUTORS**
+**[CONTRIBUTORS]**
 - Kelechi Joel
 - Julia Dettman
 - Adil Baksh
