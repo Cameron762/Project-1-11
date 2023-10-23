@@ -12,14 +12,14 @@ The correlation of Tourism with the GDP and Poplation of Global Countries.
 [ACKNOWLEDGEMENT](#acknowledgement)  
 [LICENSE](license)  
 
-**project description**  
+**PROJECT DESCRIPTION**  
 Tourism is a huge global industry and tends to correlate with how well countries perform economically. Explore how tourism arrivals and expenditure correlate with the GDP of a country and examine if the population of a country places any effect on these correlation.  
 *Research questions to ask:*
 1. Does the number of tourist visit affect expenditure?
 2. Does tourist visit and expenditure correlate with the GDP of Global countries?
 3. Is population playing a factor in tourism?
 
-**[CONTRIBUTORS]**
+**CONTRIBUTORS**
 - Kelechi Joel
 - Julia Dettman
 - Adil Baksh
@@ -35,20 +35,23 @@ installation
 
 **DOCUMENTATION**
 
-https://data.austintexas.gov/Public-Safety/Crime-Reports-2020/r6nu-rp78
+https://fbj.springeropen.com/articles/10.1186/s43093-020-00048-3#:~:text=It%20enhances%20economic%20growth%20by,positive%20externalities%20%5B1%2C%2014%5D
 
-https://data.austintexas.gov/Public-Safety/Crime-Reports-2021/dgj6-yabs
+https://www.diva-portal.org/smash/get/diva2:1564594/FULLTEXT01.pdf
 
-https://data.austintexas.gov/Public-Safety/Crime-Reports-2022/74im-wh8j
+*Rough breakdown of tasks:*
 
-Rough breakdown of tasks:
+ 
+- Julia Dettman:
+- Cameron Carson:
+- Jonathan Rascon:
+- Jonathan Rascon:
+- Kelechi Joel:
+- Adil Baksh:
+- Group Presentation: All
+- Slide Deck:   
 
-Exploration and cleanup - Julia Dettman/ Cameron Carson
+**DEVELOPMENT**  
+**ACKNOWLEDGEMENT**  
+**LICENSE**  
 
-Visualizations - Cameron Carson/ Jonathan Rascon
-
-Analysis and Conclusion - Jonathan Rascon/ Kelechi Joel/ Adil Baksh
-
-Group Presentation - All
-
-Slide Deck - Adil Baksh/ Julia Dettman
