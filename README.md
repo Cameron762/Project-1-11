@@ -1,13 +1,26 @@
-# Project-1-11
-Project title: 
+# **PROJECT-1**
+![download](https://github.com/Cameron762/Project-1-11/assets/72319764/7f8c363a-026a-429c-be56-127ed8535605)
 
- How the increasing populations of major Texas cities affects the cost of living and crime rates.
+**PROJECT TITLE :**
+The correlation of Tourism with the GDP and Poplation of Global Countries.  
+[PROJECT DESCRIPTION]()
+CONTRIBUTORS
+INSTALLATION
+DOCUMENTATION
+DEVELOPMENT
+ACKNOWLEDGEMENT
+LICENSE
+
+
+**Team members:**
  
-Team members:
- 
-Kelechi Joel, Julia Dettman, Adil Baksh, Jonathan Rascon, Cameron Carson
- 
-Project description: 
+- Kelechi Joel
+- Julia Dettman
+- Adil Baksh
+- Jonathan Rascon
+- Cameron Carson
+  
+ Project description:  
  
 The goal of this project is to gather data on the crime rate, income, cost of living via mortgage/ rent, and population density of major cities in Texas and analyze how these categories may affect each other. 
  
