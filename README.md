@@ -10,7 +10,8 @@ The correlation of Tourism with the GDP and Poplation of Global Countries.
 [DOCUMENTATION](#documentation)  
 [DEVELOPMENT](#development)  
 [ACKNOWLEDGEMENT](#acknowledgement)  
-[LICENSE](license)  
+[LICENSE](license)   
+[CONCLUSION](#conclusion)
 
 **PROJECT DESCRIPTION**  
 Tourism is a huge global industry and tends to correlate with how well countries perform economically. Explore how tourism arrivals and expenditure correlate with the GDP of a country and examine if the population of a country places any effect on these correlation.  
@@ -20,11 +21,11 @@ Tourism is a huge global industry and tends to correlate with how well countries
 3. Is population playing a factor in tourism?
 
 **CONTRIBUTORS**
-- Kelechi Joel
-- Julia Dettman
-- Adil Baksh
-- Jonathan Rascon
-- Cameron Carson
+- Kelechi Joel Github Link: https://github.com/kcjoel
+- Julia Dettman Github Link:
+- Adil Baksh Github Link:
+- Jonathan Rascon Github Link:
+- Cameron Carson Github Link:
   
 installation 
 - import pandas 
@@ -46,12 +47,13 @@ https://www.diva-portal.org/smash/get/diva2:1564594/FULLTEXT01.pdf
 - Cameron Carson:
 - Jonathan Rascon:
 - Jonathan Rascon:
-- Kelechi Joel:
+- Kelechi Joel: 
 - Adil Baksh:
 - Group Presentation: All
 - Slide Deck:   
 
 **DEVELOPMENT**  
 **ACKNOWLEDGEMENT**  
-**license**  
+**LICENSE**  
+**CONCLUSION**
 
