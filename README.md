@@ -4,12 +4,12 @@
 **PROJECT TITLE:**
 The correlation of Tourism with the GDP and Poplation of Global Countries.  
 
-[LINK TO PROJECT DESCRIPTION](#project-description)   
+[PROJECT DESCRIPTION](#project-description)   
 [CONTRIBUTORS](#contributors)  
 [INSTALLATION](#installation)  
 [DOCUMENTATION](#documentation)  
 [DEVELOPMENT](#development)  
-[LINK TO ACKNOWLEDGEMENT](#acknowledgement)  
+[ACKNOWLEDGEMENT](#acknowledgement)  
 [LICENSE](license)   
 [CONCLUSION](#conclusion)
 
@@ -53,7 +53,7 @@ https://www.diva-portal.org/smash/get/diva2:1564594/FULLTEXT01.pdf
 - Slide Deck:   
 
 **DEVELOPMENT**  
-###ACKNOWLEDGEMENT 
+**ACKNOWLEDGEMENT**
 **LICENSE**  
 **CONCLUSION**
 
