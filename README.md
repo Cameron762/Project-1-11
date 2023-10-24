@@ -46,7 +46,7 @@ https://www.diva-portal.org/smash/get/diva2:1564594/FULLTEXT01.pdf
 - Julia Dettman: find data source, work on year 2016
 - Cameron Carson: clean the data, work on year 2017
 - Jonathan Rascon: work on year 2018
-- Kelechi Joel: work on year 2019
+- Kelechi Joel: work on year 2019, Readme
 - Group Presentation: All
 - Slide Deck: All complete individual slides  
 
