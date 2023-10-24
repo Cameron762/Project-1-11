@@ -9,8 +9,6 @@ The correlation of Tourism with the GDP and Poplation of Global Countries.
 [INSTALLATION](#installation)  
 [DOCUMENTATION](#documentation)  
 [DEVELOPMENT](#development)  
-[ACKNOWLEDGEMENT](#acknowledgement)  
-[LICENSE](#license)   
 [CONCLUSION](#conclusion)
 
 **PROJECT DESCRIPTION**  
@@ -28,11 +26,14 @@ Tourism is a huge global industry and tends to correlate with how well countries
 - Cameron Carson Github Link: https://github.com/Cameron762
   
 **INSTALLATION** 
+- Python 
+- Code Editor (Visual code, jupyter etc)
 - import pandas 
 - from pathlib import Path
 - import numpy 
 - import matplotlib.pyplot 
 - import scipy.stats
+- No other installations should be needed to run code 
 
 **DOCUMENTATION**
 
@@ -51,7 +52,19 @@ https://www.diva-portal.org/smash/get/diva2:1564594/FULLTEXT01.pdf
 - Slide Deck: All complete individual slides  
 
 **DEVELOPMENT**  
-**ACKNOWLEDGEMENT**
-**LICENSE**  
-**CONCLUSION**
+- Start by downloading the clean3data to your computer
+- On a coding editor, install all neccessary installations needed to run the code
+- Using pathlib, add a path to call the downloaded data directly to your editor
+- Delete unwanted columns and rows using the del function and dropna function
+- create a function that helps automatically graph coordinates, this will be used in our correlation analysis for question 4
+- Sort the data frame for only certain years and save those files to be analyzed
+- To answer Question 1, plot countries vs Arrivals
+- sort data for the first 10 countries, and plot that into a pie chart
+- To answer Question 2, plot countries vs Tourism receipts
+- sort data for the first 10 countries and plot that into a pie chart
+- To answer Question 3, plot countries vs GDP
+- sort data for the first 10 countries, and plot that into a pie chart.
+- To answer question 4, build two scatter plots: one for Inbound tourist vs GDP, and the second for GDP and receipts
+- Using the scatter plot information compare and contrast the relationships between these factors.
+- note: If any data is a huge outlier, eliminate it and redo processes so analyses can better be understood.
 
