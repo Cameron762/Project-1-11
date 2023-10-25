@@ -2,7 +2,7 @@
 ![download](https://github.com/Cameron762/Project-1-11/assets/72319764/7f8c363a-026a-429c-be56-127ed8535605)
 
 **PROJECT TITLE:**
-The correlation of Tourism with the GDP and Population of Global Countries.  
+The correlation of Tourism with the GDP of Global Countries.  
 
 [PROJECT DESCRIPTION](#project-description)   
 [CONTRIBUTORS](#contributors)  
@@ -12,7 +12,7 @@ The correlation of Tourism with the GDP and Population of Global Countries.
 
 
 **PROJECT DESCRIPTION**  
-Tourism is a huge global industry and tends to correlate with how well countries perform economically. Explore how tourism arrivals and expenditure correlate with the GDP of a country and examine if the population of a country places any effect on these correlation.  
+Tourism is a huge global industry and tends to correlate with how well countries perform economically. Explore how tourism arrivals and expenditure correlate with the GDP of a country and examine any effect on these correlation.  
 
 *Research questions to ask:*
 1. What country has the most inbound tourists?
@@ -53,7 +53,7 @@ https://www.diva-portal.org/smash/get/diva2:1564594/FULLTEXT01.pdf
 - Slide Deck: All complete individual slides  
 
 **DEVELOPMENT**  
-- Start by downloading the clean3data.csv to your computer
+- Start by downloading the clean3data.csv from the resources folder to computer
 - On a coding editor, install all neccessary installations needed to run the code
 - Using pathlib, add a path to call the csv.data directly to your editor
 - Delete unwanted columns and rows using the del function and dropna function
