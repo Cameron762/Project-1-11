@@ -9,7 +9,7 @@ The correlation of Tourism with the GDP and Population of Global Countries.
 [INSTALLATION](#installation)  
 [DOCUMENTATION](#documentation)  
 [DEVELOPMENT](#development)  
-[CONCLUSION](#conclusion)
+
 
 **PROJECT DESCRIPTION**  
 Tourism is a huge global industry and tends to correlate with how well countries perform economically. Explore how tourism arrivals and expenditure correlate with the GDP of a country and examine if the population of a country places any effect on these correlation.
@@ -52,9 +52,9 @@ https://www.diva-portal.org/smash/get/diva2:1564594/FULLTEXT01.pdf
 - Slide Deck: All complete individual slides  
 
 **DEVELOPMENT**  
-- Start by downloading the clean3data to your computer
+- Start by downloading the clean3data.csv to your computer
 - On a coding editor, install all neccessary installations needed to run the code
-- Using pathlib, add a path to call the downloaded data directly to your editor
+- Using pathlib, add a path to call the csv.data directly to your editor
 - Delete unwanted columns and rows using the del function and dropna function
 - create a function that helps automatically graph coordinates, this will be used in our correlation analysis for question 4
 - Sort the data frame for only certain years and save those files to be analyzed
