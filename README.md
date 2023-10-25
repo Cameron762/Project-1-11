@@ -2,7 +2,7 @@
 ![download](https://github.com/Cameron762/Project-1-11/assets/72319764/7f8c363a-026a-429c-be56-127ed8535605)
 
 **PROJECT TITLE:**
-The correlation of Tourism with the GDP and Poplation of Global Countries.  
+The correlation of Tourism with the GDP and Population of Global Countries.  
 
 [PROJECT DESCRIPTION](#project-description)   
 [CONTRIBUTORS](#contributors)  
